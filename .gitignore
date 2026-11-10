@@ -1,0 +1,17 @@
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.bai
+*.csi
+*.sam
+*.fasta
+*.fasta.fai
+*.gfa
+*.sra
+# big output/tool dirs
+assembly/
+jbrowse
+
+

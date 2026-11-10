@@ -1,0 +1,4 @@
+Isolate ID	Plasmid	%Identity	%Overlap	HSP Length/Total Length	Contig	Start	End	Accession
+assembly	IncFIA	99.74	100.00	388/388	contig_15	54707	55094	AP001918
+assembly	IncFIB(pB171)	99.22	100.00	643/643	contig_15	37121	36479	AB024946
+assembly	IncQ1	100.00	66.46	529/796	contig_15	90847	90319	M28829

@@ -1,0 +1,17 @@
+##gff-version 3
+contig_15	Plasmid	sequence_feature	54707	55094	99.74	+	.	Accession=AP001918;ID=contig_15_IncFIA_1;Name=IncFIA
+contig_15	Plasmid	sequence_feature	36479	37121	99.22	-	.	Accession=AB024946;ID=contig_15_IncFIB%28pB171%29_2;Name=IncFIB%28pB171%29
+contig_15	Plasmid	sequence_feature	90319	90847	100.0	-	.	Accession=M28829;ID=contig_15_IncQ1_3;Name=IncQ1
+contig_15	Resistance	sequence_feature	82182	83042	99.88	+	.	Accession=EU022314;ID=contig_15_aac%283%29-IId_4;Name=aac%283%29-IId;Phenotype=Apramycin%2C Gentamicin%2C Tobramycin%2C Dibekacin%2C Netilmicin%2C Sisomicin
+contig_15	Resistance	sequence_feature	93062	93865	100.0	+	.	Accession=AF321551;ID=contig_15_aph%283%27%27%29-Ib_5;Name=aph%283%27%27%29-Ib;Phenotype=Streptomycin
+contig_15	Resistance	sequence_feature	93865	94701	100.0	+	.	Accession=M28829;ID=contig_15_aph%286%29-Id_6;Name=aph%286%29-Id;Phenotype=Streptomycin
+contig_15	Resistance	sequence_feature	96064	96924	100.0	-	.	Accession=AY458016;ID=contig_15_blaTEM-1B_7;Name=blaTEM-1B;Phenotype=Amoxicillin%2C Ampicillin%2C Cephalothin%2C Piperacillin%2C Ticarcillin
+contig_15	Resistance	sequence_feature	1666	2139	100.0	+	.	Accession=FJ460238;ID=contig_15_dfrA17_8;Name=dfrA17;Phenotype=Trimethoprim
+contig_15	Resistance	sequence_feature	74011	75552	99.61	-	.	Accession=AB263754;ID=contig_15_qepA1_9;Name=qepA1;Phenotype=Ciprofloxacin
+contig_15	Resistance	sequence_feature	92186	93001	100.0	+	.	Accession=HQ840942;ID=contig_15_sul2_10;Name=sul2;Phenotype=Sulfamethoxazole
+contig_15	Resistance	sequence_feature	4942	6147	100.0	+	.	Accession=AF326777;ID=contig_15_tet%28B%29_11;Name=tet%28B%29;Phenotype=Doxycycline%2C Tetracycline%2C Minocycline
+contig_6	Resistance	sequence_feature	636285	637160	100.0	-	.	Accession=AY044436;ID=contig_6_blaCTX-M-15_1;Name=blaCTX-M-15;Phenotype=Amoxicillin%2C Ampicillin%2C Aztreonam%2C Cefepime%2C Cefotaxime%2C Ceftazidime%2C Ceftriaxone%2C Piperacillin%2C Ticarcillin
+contig_10	Resistance	sequence_feature	4895	5755	100.0	-	.	Accession=AY458016;ID=contig_10_blaTEM-1B_1;Name=blaTEM-1B;Phenotype=Amoxicillin%2C Ampicillin%2C Cephalothin%2C Piperacillin%2C Ticarcillin
+contig_12	Resistance	sequence_feature	219793	222420	99.24	-	.	ID=contig_12_gyrA_%28D87N%29_1;Name=gyrA %28D87N%29;Phenotype=Nalidixic acid%2C Ciprofloxacin
+contig_12	Resistance	sequence_feature	219793	222420	99.24	-	.	ID=contig_12_gyrA_%28S83L%29_2;Name=gyrA %28S83L%29;Phenotype=Nalidixic acid%2C Ciprofloxacin
+contig_1	Resistance	sequence_feature	445595	447853	99.2	+	.	ID=contig_1_parC_%28S80I%29_1;Name=parC %28S80I%29;Phenotype=Nalidixic acid%2C Ciprofloxacin

@@ -1,0 +1,227 @@
+2026-11-09 11:48:09,408 NanoPlot 1.48.0 started with arguments Namespace(threads=8, verbose=False, store=False, raw=False, huge=False, outdir='Eqc_report/ERR17374884_filtered', no_static=False, prefix='', tsv_stats=False, only_report=False, info_in_report=False, include_js='cdn', maxlength=None, minlength=None, drop_outliers=False, downsample=None, loglength=False, percentqual=False, alength=False, minqual=None, runtime_until=None, readtype='1D', barcoded=False, no_supplementary=False, color='#4CB391', colormap='Greens', format=['png'], plots=['kde', 'dot'], legacy=None, listcolors=False, listcolormaps=False, no_N50=False, N50=True, title=None, font_scale=1, dpi=300, hide_stats=False, fastq=['Ecoli/ERR17374884.filtered.fastq'], fasta=None, fastq_rich=None, fastq_minimal=None, summary=None, bam=None, ubam=None, cram=None, pickle=None, feather=None, path='Eqc_report/ERR17374884_filtered/')
+2026-11-09 11:48:09,409 Python version is: 3.11.4 | packaged by conda-forge | (main, Jun 10 2023, 18:08:17) [GCC 12.2.0]
+2026-11-09 11:48:09,474 Nanoget: Starting to collect statistics from plain fastq file.
+2026-11-09 11:49:01,799 Reduced DataFrame memory usage from 1.1064949035644531Mb to 1.1064949035644531Mb
+2026-11-09 11:49:01,847 Nanoget: Gathered all metrics of 72507 reads
+2026-11-09 11:49:01,985 Calculated statistics
+2026-11-09 11:49:01,986 Using sequenced read lengths for plotting.
+2026-11-09 11:49:01,991 NanoPlot:  Valid color #4CB391.
+2026-11-09 11:49:01,992 NanoPlot:  Valid colormap Greens.
+2026-11-09 11:49:01,998 NanoPlot:  Creating length plots for Read length.
+2026-11-09 11:49:01,998 NanoPlot: Using 72507 reads with read length N50 of 6726bp and maximum of 31184bp.
+2026-11-09 11:49:02,554 Using last known good version of chrome
+2026-11-09 11:49:02,567 Chromium init'ed with kwargs {}
+2026-11-09 11:49:02,567 Found chromium path: /home/faris/.local/share/choreographer/deps/chrome-linux64/chrome
+2026-11-09 11:49:02,571 Temp directory created: /tmp/tmpdtqzx7cg.
+2026-11-09 11:49:02,571 Opening browser.
+2026-11-09 11:49:02,573 Temp directory created: /tmp/tmps8iphy02.
+2026-11-09 11:49:02,573 Temporary directory at: /tmp/tmps8iphy02
+2026-11-09 11:49:04,578 Conforming 1 to file:///tmp/tmpdtqzx7cg/index.html
+2026-11-09 11:49:08,218 Getting tab from queue (has 1)
+2026-11-09 11:49:08,219 Got F686
+2026-11-09 11:49:08,750 Reloading tab F686 before return.
+2026-11-09 11:49:09,326 Putting tab F686 back (queue size: 0).
+2026-11-09 11:49:09,327 Waiting for all cleanups to finish.
+2026-11-09 11:49:09,327 Exiting Kaleido.
+2026-11-09 11:49:09,328 TemporaryDirectory.cleanup() worked.
+2026-11-09 11:49:09,328 shutil.rmtree worked.
+2026-11-09 11:49:09,328 Closing browser.
+2026-11-09 11:49:09,333 TemporaryDirectory.cleanup() worked.
+2026-11-09 11:49:09,333 shutil.rmtree worked.
+2026-11-09 11:49:09,334 Closing browser.
+2026-11-09 11:49:09,334 Cancelling tasks.
+2026-11-09 11:49:09,334 Exiting Kaleido/Choreo.
+2026-11-09 11:49:09,667 TemporaryDirectory.cleanup() worked.
+2026-11-09 11:49:09,667 shutil.rmtree worked.
+2026-11-09 11:49:09,668 Cancelling tasks.
+2026-11-09 11:49:09,668 Exiting Kaleido/Choreo.
+2026-11-09 11:49:09,671 Could not set DPI metadata for Eqc_report/ERR17374884_filtered/WeightedHistogramReadlength.png: No module named 'PIL'
+2026-11-09 11:49:09,671 Saved Eqc_report/ERR17374884_filtered/WeightedHistogramReadlength.png as png (dpi=300)
+2026-11-09 11:49:09,778 Using last known good version of chrome
+2026-11-09 11:49:09,787 Chromium init'ed with kwargs {}
+2026-11-09 11:49:09,788 Found chromium path: /home/faris/.local/share/choreographer/deps/chrome-linux64/chrome
+2026-11-09 11:49:09,789 Temp directory created: /tmp/tmpkrxihqsa.
+2026-11-09 11:49:09,789 Opening browser.
+2026-11-09 11:49:09,791 Temp directory created: /tmp/tmpcnujo1af.
+2026-11-09 11:49:09,791 Temporary directory at: /tmp/tmpcnujo1af
+2026-11-09 11:49:10,613 Conforming 1 to file:///tmp/tmpkrxihqsa/index.html
+2026-11-09 11:49:14,208 Getting tab from queue (has 1)
+2026-11-09 11:49:14,209 Got E9F8
+2026-11-09 11:49:14,759 Reloading tab E9F8 before return.
+2026-11-09 11:49:15,440 Putting tab E9F8 back (queue size: 0).
+2026-11-09 11:49:15,441 Waiting for all cleanups to finish.
+2026-11-09 11:49:15,441 Exiting Kaleido.
+2026-11-09 11:49:15,443 TemporaryDirectory.cleanup() worked.
+2026-11-09 11:49:15,444 shutil.rmtree worked.
+2026-11-09 11:49:15,444 Closing browser.
+2026-11-09 11:49:15,450 TemporaryDirectory.cleanup() worked.
+2026-11-09 11:49:15,451 shutil.rmtree worked.
+2026-11-09 11:49:15,451 Closing browser.
+2026-11-09 11:49:15,451 Cancelling tasks.
+2026-11-09 11:49:15,451 Exiting Kaleido/Choreo.
+2026-11-09 11:49:15,792 TemporaryDirectory.cleanup() worked.
+2026-11-09 11:49:15,792 shutil.rmtree worked.
+2026-11-09 11:49:15,792 Cancelling tasks.
+2026-11-09 11:49:15,793 Exiting Kaleido/Choreo.
+2026-11-09 11:49:15,799 Could not set DPI metadata for Eqc_report/ERR17374884_filtered/WeightedLogTransformed_HistogramReadlength.png: No module named 'PIL'
+2026-11-09 11:49:15,799 Saved Eqc_report/ERR17374884_filtered/WeightedLogTransformed_HistogramReadlength.png as png (dpi=300)
+2026-11-09 11:49:15,908 Using last known good version of chrome
+2026-11-09 11:49:15,920 Chromium init'ed with kwargs {}
+2026-11-09 11:49:15,920 Found chromium path: /home/faris/.local/share/choreographer/deps/chrome-linux64/chrome
+2026-11-09 11:49:15,922 Temp directory created: /tmp/tmp3kcyi1a4.
+2026-11-09 11:49:15,922 Opening browser.
+2026-11-09 11:49:15,924 Temp directory created: /tmp/tmp376lhjza.
+2026-11-09 11:49:15,924 Temporary directory at: /tmp/tmp376lhjza
+2026-11-09 11:49:16,937 Conforming 1 to file:///tmp/tmp3kcyi1a4/index.html
+2026-11-09 11:49:20,714 Getting tab from queue (has 1)
+2026-11-09 11:49:20,715 Got E711
+2026-11-09 11:49:21,197 Reloading tab E711 before return.
+2026-11-09 11:49:21,784 Putting tab E711 back (queue size: 0).
+2026-11-09 11:49:21,785 Waiting for all cleanups to finish.
+2026-11-09 11:49:21,785 Exiting Kaleido.
+2026-11-09 11:49:21,786 TemporaryDirectory.cleanup() worked.
+2026-11-09 11:49:21,787 shutil.rmtree worked.
+2026-11-09 11:49:21,787 Closing browser.
+2026-11-09 11:49:21,792 TemporaryDirectory.cleanup() worked.
+2026-11-09 11:49:21,792 shutil.rmtree worked.
+2026-11-09 11:49:21,793 Closing browser.
+2026-11-09 11:49:21,793 Cancelling tasks.
+2026-11-09 11:49:21,793 Exiting Kaleido/Choreo.
+2026-11-09 11:49:22,131 TemporaryDirectory.cleanup() worked.
+2026-11-09 11:49:22,131 shutil.rmtree worked.
+2026-11-09 11:49:22,131 Cancelling tasks.
+2026-11-09 11:49:22,132 Exiting Kaleido/Choreo.
+2026-11-09 11:49:22,136 Could not set DPI metadata for Eqc_report/ERR17374884_filtered/Non_weightedHistogramReadlength.png: No module named 'PIL'
+2026-11-09 11:49:22,136 Saved Eqc_report/ERR17374884_filtered/Non_weightedHistogramReadlength.png as png (dpi=300)
+2026-11-09 11:49:22,238 Using last known good version of chrome
+2026-11-09 11:49:22,249 Chromium init'ed with kwargs {}
+2026-11-09 11:49:22,250 Found chromium path: /home/faris/.local/share/choreographer/deps/chrome-linux64/chrome
+2026-11-09 11:49:22,251 Temp directory created: /tmp/tmp6tc_kqf4.
+2026-11-09 11:49:22,251 Opening browser.
+2026-11-09 11:49:22,253 Temp directory created: /tmp/tmp9wv9d9yc.
+2026-11-09 11:49:22,253 Temporary directory at: /tmp/tmp9wv9d9yc
+2026-11-09 11:49:23,071 Conforming 1 to file:///tmp/tmp6tc_kqf4/index.html
+2026-11-09 11:49:23,733 TemporaryDirectory.cleanup() worked.
+2026-11-09 11:49:23,733 shutil.rmtree worked.
+2026-11-09 11:49:23,733 TemporaryDirectory.cleanup() worked.
+2026-11-09 11:49:23,734 shutil.rmtree worked.
+2026-11-09 11:49:23,734 TemporaryDirectory.cleanup() worked.
+2026-11-09 11:49:23,734 shutil.rmtree worked.
+2026-11-09 11:49:26,531 Getting tab from queue (has 1)
+2026-11-09 11:49:26,531 Got 4860
+2026-11-09 11:49:27,017 Reloading tab 4860 before return.
+2026-11-09 11:49:27,593 Putting tab 4860 back (queue size: 0).
+2026-11-09 11:49:27,594 Waiting for all cleanups to finish.
+2026-11-09 11:49:27,595 Exiting Kaleido.
+2026-11-09 11:49:27,595 TemporaryDirectory.cleanup() worked.
+2026-11-09 11:49:27,595 shutil.rmtree worked.
+2026-11-09 11:49:27,595 Closing browser.
+2026-11-09 11:49:27,600 TemporaryDirectory.cleanup() worked.
+2026-11-09 11:49:27,600 shutil.rmtree worked.
+2026-11-09 11:49:27,600 Closing browser.
+2026-11-09 11:49:27,600 Cancelling tasks.
+2026-11-09 11:49:27,601 Exiting Kaleido/Choreo.
+2026-11-09 11:49:27,935 TemporaryDirectory.cleanup() worked.
+2026-11-09 11:49:27,935 shutil.rmtree worked.
+2026-11-09 11:49:27,935 Cancelling tasks.
+2026-11-09 11:49:27,936 Exiting Kaleido/Choreo.
+2026-11-09 11:49:27,939 Could not set DPI metadata for Eqc_report/ERR17374884_filtered/Non_weightedLogTransformed_HistogramReadlength.png: No module named 'PIL'
+2026-11-09 11:49:27,939 Saved Eqc_report/ERR17374884_filtered/Non_weightedLogTransformed_HistogramReadlength.png as png (dpi=300)
+2026-11-09 11:49:27,939 NanoPlot: Creating yield by minimal length plot for Read length.
+2026-11-09 11:49:28,477 Using last known good version of chrome
+2026-11-09 11:49:28,487 Chromium init'ed with kwargs {}
+2026-11-09 11:49:28,487 Found chromium path: /home/faris/.local/share/choreographer/deps/chrome-linux64/chrome
+2026-11-09 11:49:28,488 Temp directory created: /tmp/tmplhj7wwv2.
+2026-11-09 11:49:28,488 Opening browser.
+2026-11-09 11:49:28,490 Temp directory created: /tmp/tmpgirhxut1.
+2026-11-09 11:49:28,490 Temporary directory at: /tmp/tmpgirhxut1
+2026-11-09 11:49:29,278 Conforming 1 to file:///tmp/tmplhj7wwv2/index.html
+2026-11-09 11:49:32,767 Getting tab from queue (has 1)
+2026-11-09 11:49:32,767 Got 9CC9
+2026-11-09 11:49:36,772 Reloading tab 9CC9 before return.
+2026-11-09 11:49:37,512 Putting tab 9CC9 back (queue size: 0).
+2026-11-09 11:49:37,513 Waiting for all cleanups to finish.
+2026-11-09 11:49:37,513 Exiting Kaleido.
+2026-11-09 11:49:37,514 TemporaryDirectory.cleanup() worked.
+2026-11-09 11:49:37,514 shutil.rmtree worked.
+2026-11-09 11:49:37,514 Closing browser.
+2026-11-09 11:49:37,519 TemporaryDirectory.cleanup() worked.
+2026-11-09 11:49:37,520 shutil.rmtree worked.
+2026-11-09 11:49:37,520 Closing browser.
+2026-11-09 11:49:37,520 Cancelling tasks.
+2026-11-09 11:49:37,520 Exiting Kaleido/Choreo.
+2026-11-09 11:49:37,852 TemporaryDirectory.cleanup() worked.
+2026-11-09 11:49:37,853 shutil.rmtree worked.
+2026-11-09 11:49:37,853 Cancelling tasks.
+2026-11-09 11:49:37,853 Exiting Kaleido/Choreo.
+2026-11-09 11:49:37,857 Could not set DPI metadata for Eqc_report/ERR17374884_filtered/Yield_By_Length.png: No module named 'PIL'
+2026-11-09 11:49:37,857 Saved Eqc_report/ERR17374884_filtered/Yield_By_Length.png as png (dpi=300)
+2026-11-09 11:49:37,857 Created length plots
+2026-11-09 11:49:37,859 NanoPlot: Creating Read lengths vs Average read quality plots using 72507 reads.
+2026-11-09 11:49:37,943 TemporaryDirectory.cleanup() worked.
+2026-11-09 11:49:37,943 shutil.rmtree worked.
+2026-11-09 11:49:38,128 Using last known good version of chrome
+2026-11-09 11:49:38,139 Chromium init'ed with kwargs {}
+2026-11-09 11:49:38,139 Found chromium path: /home/faris/.local/share/choreographer/deps/chrome-linux64/chrome
+2026-11-09 11:49:38,140 Temp directory created: /tmp/tmpzi1e6eyv.
+2026-11-09 11:49:38,140 Opening browser.
+2026-11-09 11:49:38,142 Temp directory created: /tmp/tmp59byljzn.
+2026-11-09 11:49:38,142 Temporary directory at: /tmp/tmp59byljzn
+2026-11-09 11:49:38,907 Conforming 1 to file:///tmp/tmpzi1e6eyv/index.html
+2026-11-09 11:49:42,364 Getting tab from queue (has 1)
+2026-11-09 11:49:42,364 Got 972F
+2026-11-09 11:49:47,398 Reloading tab 972F before return.
+2026-11-09 11:49:48,334 Putting tab 972F back (queue size: 0).
+2026-11-09 11:49:48,335 Waiting for all cleanups to finish.
+2026-11-09 11:49:48,335 Exiting Kaleido.
+2026-11-09 11:49:48,337 TemporaryDirectory.cleanup() worked.
+2026-11-09 11:49:48,337 shutil.rmtree worked.
+2026-11-09 11:49:48,337 Closing browser.
+2026-11-09 11:49:48,344 TemporaryDirectory.cleanup() worked.
+2026-11-09 11:49:48,345 shutil.rmtree worked.
+2026-11-09 11:49:48,345 Closing browser.
+2026-11-09 11:49:48,345 Cancelling tasks.
+2026-11-09 11:49:48,346 Exiting Kaleido/Choreo.
+2026-11-09 11:49:48,681 TemporaryDirectory.cleanup() worked.
+2026-11-09 11:49:48,681 shutil.rmtree worked.
+2026-11-09 11:49:48,682 Cancelling tasks.
+2026-11-09 11:49:48,682 Exiting Kaleido/Choreo.
+2026-11-09 11:49:48,688 Could not set DPI metadata for Eqc_report/ERR17374884_filtered/LengthvsQualityScatterPlot_dot.png: No module named 'PIL'
+2026-11-09 11:49:48,688 Saved Eqc_report/ERR17374884_filtered/LengthvsQualityScatterPlot_dot.png as png (dpi=300)
+2026-11-09 11:49:48,807 Using last known good version of chrome
+2026-11-09 11:49:48,820 Chromium init'ed with kwargs {}
+2026-11-09 11:49:48,821 Found chromium path: /home/faris/.local/share/choreographer/deps/chrome-linux64/chrome
+2026-11-09 11:49:48,821 Temp directory created: /tmp/tmpq6ttkl81.
+2026-11-09 11:49:48,822 Opening browser.
+2026-11-09 11:49:48,824 Temp directory created: /tmp/tmprn0i0ky4.
+2026-11-09 11:49:48,824 Temporary directory at: /tmp/tmprn0i0ky4
+2026-11-09 11:49:49,794 Conforming 1 to file:///tmp/tmpq6ttkl81/index.html
+2026-11-09 11:49:53,264 Getting tab from queue (has 1)
+2026-11-09 11:49:53,265 Got 3686
+2026-11-09 11:49:56,026 Reloading tab 3686 before return.
+2026-11-09 11:49:56,598 Putting tab 3686 back (queue size: 0).
+2026-11-09 11:49:56,599 Waiting for all cleanups to finish.
+2026-11-09 11:49:56,600 Exiting Kaleido.
+2026-11-09 11:49:56,601 TemporaryDirectory.cleanup() worked.
+2026-11-09 11:49:56,601 shutil.rmtree worked.
+2026-11-09 11:49:56,601 Closing browser.
+2026-11-09 11:49:56,606 TemporaryDirectory.cleanup() worked.
+2026-11-09 11:49:56,607 shutil.rmtree worked.
+2026-11-09 11:49:56,607 Closing browser.
+2026-11-09 11:49:56,607 Cancelling tasks.
+2026-11-09 11:49:56,608 Exiting Kaleido/Choreo.
+2026-11-09 11:49:56,941 TemporaryDirectory.cleanup() worked.
+2026-11-09 11:49:56,942 shutil.rmtree worked.
+2026-11-09 11:49:56,942 Cancelling tasks.
+2026-11-09 11:49:56,942 Exiting Kaleido/Choreo.
+2026-11-09 11:49:56,947 Could not set DPI metadata for Eqc_report/ERR17374884_filtered/LengthvsQualityScatterPlot_kde.png: No module named 'PIL'
+2026-11-09 11:49:56,947 Saved Eqc_report/ERR17374884_filtered/LengthvsQualityScatterPlot_kde.png as png (dpi=300)
+2026-11-09 11:49:56,947 Created LengthvsQual plot
+2026-11-09 11:49:56,947 Writing html report.
+2026-11-09 11:49:56,991 Finished!
+2026-11-09 11:49:57,145 TemporaryDirectory.cleanup() worked.
+2026-11-09 11:49:57,145 shutil.rmtree worked.
+2026-11-09 11:49:57,146 TemporaryDirectory.cleanup() worked.
+2026-11-09 11:49:57,146 shutil.rmtree worked.
+2026-11-09 11:49:57,146 TemporaryDirectory.cleanup() worked.
+2026-11-09 11:49:57,146 shutil.rmtree worked.

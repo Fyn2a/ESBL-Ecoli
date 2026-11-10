@@ -1,0 +1,16 @@
+assembly	IncFIA	Plasmid			99.74	100.0	388/388	contig_15	54707	55094	AP001918
+assembly	IncFIB(pB171)	Plasmid			99.22	100.0	643/643	contig_15	37121	36479	AB024946
+assembly	IncQ1	Plasmid			100.0	66.46	529/796	contig_15	90847	90319	M28829
+assembly	aac(3)-IId	Resistance	gentamicin	Apramycin, Gentamicin, Tobramycin, Dibekacin, Netilmicin, Sisomicin	99.88	100.0	861/861	contig_15	82182	83042	EU022314
+assembly	aph(3'')-Ib	Resistance	streptomycin	Streptomycin	100.0	100.0	804/804	contig_15	93062	93865	AF321551
+assembly	aph(6)-Id	Resistance	kanamycin	Streptomycin	100.0	100.0	837/837	contig_15	93865	94701	M28829
+assembly	blaCTX-M-15	Resistance	ampicillin, ceftriaxone	Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin	100.0	100.0	876/876	contig_6	637160	636285	AY044436
+assembly	blaTEM-1B	Resistance	ampicillin	Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin	100.0	100.0	861/861	contig_10	5755	4895	AY458016
+assembly	blaTEM-1B	Resistance	ampicillin	Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin	100.0	100.0	861/861	contig_15	96924	96064	AY458016
+assembly	dfrA17	Resistance	trimethoprim	Trimethoprim	100.0	100.0	474/474	contig_15	1666	2139	FJ460238
+assembly	gyrA (D87N)	Resistance	ciprofloxacin I/R, nalidixic acid	Nalidixic acid;Nalidixic acid,Ciprofloxacin	99.24	100.0	2628/2628	contig_12	222420	219793	
+assembly	gyrA (S83L)	Resistance	ciprofloxacin I/R, nalidixic acid	Nalidixic acid,Ciprofloxacin	99.24	100.0	2628/2628	contig_12	222420	219793	
+assembly	parC (S80I)	Resistance	ciprofloxacin I/R, nalidixic acid	Nalidixic acid,Ciprofloxacin	99.2	100.0	2259/2259	contig_1	445595	447853	
+assembly	qepA1	Resistance	ciprofloxacin I/R	Ciprofloxacin	99.61	100.39	1542/1536	contig_15	75552	74011	AB263754
+assembly	sul2	Resistance	sulfisoxazole	Sulfamethoxazole	100.0	100.0	816/816	contig_15	92186	93001	HQ840942
+assembly	tet(B)	Resistance	tetracycline	Doxycycline, Tetracycline, Minocycline	100.0	100.0	1206/1206	contig_15	4942	6147	AF326777
